@@ -3,5 +3,5 @@ module "azure_resource_grp" {
     source = "./modules/azure_resource_grp"
 
 location                          = "eastus"
-resource_group_name               = "vhrg2"
+resource_group_name               = "vhrg3"
 }
