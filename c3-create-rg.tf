@@ -3,6 +3,6 @@ module "azure_resource_grp" {
     source = "./modules/azure_resource_grp"
 
 location                          = "eastus"
-resource_group_name               = "vhrg3"
+resource_group_name               = "testrgnew"
 }
 # small change
